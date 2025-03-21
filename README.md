@@ -48,3 +48,6 @@ El documento está estructurado en las siguientes secciones:
 1. Software-Defined Networking (SDN) Frameworks.
 2. Proyecciones del mercado de SD-WAN para 2023.
 3. Metro Ethernet Forum Standards.
+
+¡Gracias por tu interés en estos materiales! Si encuentras este repositorio útil, no dudes en dejar una estrella ⭐ en GitHub.
+
