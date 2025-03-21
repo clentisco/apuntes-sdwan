@@ -6,7 +6,7 @@ Este repositorio contiene apuntes que exploran en detalle el concepto de redes d
 
 Puedes descargar los apuntes completos en formato PDF desde el siguiente enlace:
 
-[Descargar Apuntes SD-WAN](ruta-al-archivo.pdf)
+[Descargar Apuntes SD-WAN]([apuntes-sdwan/blob/main/SD-WAN-apuntes.pdf])
 
 
 ## Descripción
