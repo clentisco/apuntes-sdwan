@@ -2,6 +2,13 @@
 
 Este repositorio contiene apuntes que exploran en detalle el concepto de redes definidas por software aplicadas a entornos WAN (*Software-Defined WAN* o SD-WAN), un caso de éxito en la implementación de soluciones basadas en redes definidas por software (*Software-Defined Networking* o SDN).
 
+## Descarga del documento
+
+Puedes descargar los apuntes completos en formato PDF desde el siguiente enlace:
+
+[Descargar Apuntes SD-WAN](ruta-al-archivo.pdf)
+
+
 ## Descripción
 
 Con la creciente migración de aplicaciones a la nube, las redes WAN tradicionales han enfrentado limitaciones que han motivado su transformación hacia arquitecturas más avanzadas. Este documento proporciona:
