@@ -25,9 +25,6 @@ Con la creciente migración de aplicaciones a la nube, las redes WAN tradicional
 
 El objetivo principal de este documento es ofrecer una visión clara y estructurada sobre la transformación de las redes WAN mediante el uso de tecnologías SDN, centrándose en su arquitectura, casos de uso y soluciones prácticas.
 
-## Importancia del tema
-
-La relevancia de los servicios SD-WAN está respaldada por su crecimiento exponencial en los últimos años. Según estimaciones, el mercado de SD-WAN alcanzará un valor de **5250 millones de dólares en 2023** debido a la creciente demanda de soluciones innovadoras en conectividad WAN.
 
 ## Contenido
 
